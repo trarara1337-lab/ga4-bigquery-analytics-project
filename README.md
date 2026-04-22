@@ -21,3 +21,9 @@ BigQuery, SQL, Google Analytics, GA4
 ## Result
 
 Prepared SQL queries for user behavior analysis, event tracking, and performance evaluation.
+
+Example Insights
+Ranked top users by total spend
+Identified first events in sessions
+Analyzed product revenue
+Worked with nested arrays and repeated fields
